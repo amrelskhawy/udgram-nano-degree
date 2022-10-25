@@ -2,6 +2,10 @@ branch-defaults:
   default:
     environment: udgram-api-dev
     group_suffix: null
+environment-defaults:
+  udgram-api-dev:
+    branch: null
+    repository: null
 global:
   application_name: udagram-api
   branch: null
