@@ -1,11 +1,6 @@
 branch-defaults:
   default:
     environment: udgram-api-dev
-    group_suffix: null
-environment-defaults:
-  udgram-api-dev:
-    branch: null
-    repository: null
 global:
   application_name: udagram-api
   branch: null
@@ -16,7 +11,7 @@ global:
   instance_profile: null
   platform_name: null
   platform_version: null
-  profile: default
+  profile: eb-cli
   repository: null
   sc: null
   workspace_type: Application
